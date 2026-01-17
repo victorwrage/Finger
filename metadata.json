@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Finger Counter",
+  "description": "An AI-powered visual analyzer that identifies and counts fingers in uploaded images using Gemini's vision capabilities.",
+  "requestFramePermissions": []
+}
